@@ -1,5 +1,5 @@
 # Password Management System
-This my own project
+This is my self development project , can be used to store dozens of passwords that to safely, so that if we forget we can recall easily .
 
 ## Tech Stack
 
