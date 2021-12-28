@@ -4,7 +4,7 @@ This is my self development project , can be used to store dozens of passwords t
 ## Tech Stack
 
 
- Node, Express, MySql, HTML, CSS, Bootstraps
+ Node, Express, Mongoose (MySql), HTML, CSS, Bootstraps
 
 <p align="center">
  <img src="public/stylesheets/img/nem.png" alt="[logo]"/>
